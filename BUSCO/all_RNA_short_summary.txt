@@ -1,0 +1,45 @@
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /genome/acgt/genomedb/Elaeis/EG5/GCF_000442705.1_EG5_rna.fna -o Elaeis_RNA -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /genome/acgt/genomedb/Elaeis/EG5/GCF_000442705.1_EG5_rna.fna
+# BUSCO was run in mode: transcriptome
+
+	C:97.9%[S:50.4%,D:47.5%],F:0.8%,M:1.3%,n:1440
+
+	1410	Complete BUSCOs (C)
+	726	Complete and single-copy BUSCOs (S)
+	684	Complete and duplicated BUSCOs (D)
+	11	Fragmented BUSCOs (F)
+	19	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /genome/acgt/genomedb/Jatropha_curcas/GCF_000696525.1_JatCur_1.0_rna.fna -o Jatropha_RNA -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /genome/acgt/genomedb/Jatropha_curcas/GCF_000696525.1_JatCur_1.0_rna.fna
+# BUSCO was run in mode: transcriptome
+
+	C:98.7%[S:61.8%,D:36.9%],F:0.4%,M:0.9%,n:1440
+
+	1422	Complete BUSCOs (C)
+	890	Complete and single-copy BUSCOs (S)
+	532	Complete and duplicated BUSCOs (D)
+	6	Fragmented BUSCOs (F)
+	12	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /genome/acgt/genomedb/Ricinus_communis/GCF_000151685.1_JCVI_RCG_1.1_rna.fna -o Ricinus_RNA -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /genome/acgt/genomedb/Ricinus_communis/GCF_000151685.1_JCVI_RCG_1.1_rna.fna
+# BUSCO was run in mode: transcriptome
+
+	C:97.0%[S:66.2%,D:30.8%],F:1.4%,M:1.6%,n:1440
+
+	1397	Complete BUSCOs (C)
+	953	Complete and single-copy BUSCOs (S)
+	444	Complete and duplicated BUSCOs (D)
+	20	Fragmented BUSCOs (F)
+	23	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched

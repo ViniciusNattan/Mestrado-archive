@@ -1,0 +1,510 @@
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_all.fasta -o elaeis_all.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_all.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:61.4%[S:12.0%,D:49.4%],F:8.1%,M:30.5%,n:1440
+
+	884	Complete BUSCOs (C)
+	173	Complete and single-copy BUSCOs (S)
+	711	Complete and duplicated BUSCOs (D)
+	117	Fragmented BUSCOs (F)
+	439	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_soap_31.fasta -o elaeis_soap_31.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_soap_31.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:33.3%[S:29.7%,D:3.6%],F:17.2%,M:49.5%,n:1440
+
+	480	Complete BUSCOs (C)
+	428	Complete and single-copy BUSCOs (S)
+	52	Complete and duplicated BUSCOs (D)
+	248	Fragmented BUSCOs (F)
+	712	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_spades_17.fasta -o elaeis_spades_17.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_spades_17.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:12.2%[S:10.6%,D:1.6%],F:21.9%,M:65.9%,n:1440
+
+	175	Complete BUSCOs (C)
+	152	Complete and single-copy BUSCOs (S)
+	23	Complete and duplicated BUSCOs (D)
+	316	Fragmented BUSCOs (F)
+	949	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_spades_29.fasta -o elaeis_spades_29.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_spades_29.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:41.9%[S:33.6%,D:8.3%],F:14.5%,M:43.6%,n:1440
+
+	604	Complete BUSCOs (C)
+	484	Complete and single-copy BUSCOs (S)
+	120	Complete and duplicated BUSCOs (D)
+	209	Fragmented BUSCOs (F)
+	627	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_spades_45.fasta -o elaeis_spades_45.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_spades_45.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:41.5%[S:34.6%,D:6.9%],F:13.5%,M:45.0%,n:1440
+
+	597	Complete BUSCOs (C)
+	498	Complete and single-copy BUSCOs (S)
+	99	Complete and duplicated BUSCOs (D)
+	195	Fragmented BUSCOs (F)
+	648	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_star.fasta -o elaeis_star.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_star.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:47.2%[S:14.0%,D:33.2%],F:6.7%,M:46.1%,n:1440
+
+	679	Complete BUSCOs (C)
+	201	Complete and single-copy BUSCOs (S)
+	478	Complete and duplicated BUSCOs (D)
+	97	Fragmented BUSCOs (F)
+	664	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_stringtie.fasta -o elaeis_stringtie.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_stringtie.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:50.7%[S:18.1%,D:32.6%],F:6.9%,M:42.4%,n:1440
+
+	731	Complete BUSCOs (C)
+	261	Complete and single-copy BUSCOs (S)
+	470	Complete and duplicated BUSCOs (D)
+	99	Fragmented BUSCOs (F)
+	610	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_strintie.fasta -o elaeis_strintie.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_strintie.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:50.7%[S:18.1%,D:32.6%],F:6.9%,M:42.4%,n:1440
+
+	731	Complete BUSCOs (C)
+	261	Complete and single-copy BUSCOs (S)
+	470	Complete and duplicated BUSCOs (D)
+	99	Fragmented BUSCOs (F)
+	610	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_trinity.fasta -o elaeis_trinity.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_trinity.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:43.2%[S:23.5%,D:19.7%],F:12.3%,M:44.5%,n:1440
+
+	623	Complete BUSCOs (C)
+	339	Complete and single-copy BUSCOs (S)
+	284	Complete and duplicated BUSCOs (D)
+	177	Fragmented BUSCOs (F)
+	640	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_velveth_17.fasta -o elaeis_velveth_17.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_velveth_17.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:12.3%[S:7.4%,D:4.9%],F:17.6%,M:70.1%,n:1440
+
+	177	Complete BUSCOs (C)
+	106	Complete and single-copy BUSCOs (S)
+	71	Complete and duplicated BUSCOs (D)
+	254	Fragmented BUSCOs (F)
+	1009	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_velveth_29.fasta -o elaeis_velveth_29.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_velveth_29.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:39.0%[S:24.3%,D:14.7%],F:11.5%,M:49.5%,n:1440
+
+	562	Complete BUSCOs (C)
+	350	Complete and single-copy BUSCOs (S)
+	212	Complete and duplicated BUSCOs (D)
+	165	Fragmented BUSCOs (F)
+	713	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_velveth_45.fasta -o elaeis_velveth_45.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/elaeis_velveth_45.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:32.5%[S:23.0%,D:9.5%],F:12.2%,M:55.3%,n:1440
+
+	468	Complete BUSCOs (C)
+	331	Complete and single-copy BUSCOs (S)
+	137	Complete and duplicated BUSCOs (D)
+	176	Fragmented BUSCOs (F)
+	796	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_all.fasta -o jatropha_all.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_all.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:79.2%[S:9.9%,D:69.3%],F:6.5%,M:14.3%,n:1440
+
+	1140	Complete BUSCOs (C)
+	142	Complete and single-copy BUSCOs (S)
+	998	Complete and duplicated BUSCOs (D)
+	94	Fragmented BUSCOs (F)
+	206	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_soap_31.fasta -o jatropha_soap_31.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_soap_31.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:54.6%[S:49.9%,D:4.7%],F:18.3%,M:27.1%,n:1440
+
+	786	Complete BUSCOs (C)
+	718	Complete and single-copy BUSCOs (S)
+	68	Complete and duplicated BUSCOs (D)
+	264	Fragmented BUSCOs (F)
+	390	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_spades_17.fasta -o jatropha_spades_17.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_spades_17.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:25.4%[S:23.2%,D:2.2%],F:28.1%,M:46.5%,n:1440
+
+	366	Complete BUSCOs (C)
+	334	Complete and single-copy BUSCOs (S)
+	32	Complete and duplicated BUSCOs (D)
+	405	Fragmented BUSCOs (F)
+	669	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_spades_29.fasta -o jatropha_spades_29.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_spades_29.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:60.3%[S:54.0%,D:6.3%],F:15.8%,M:23.9%,n:1440
+
+	867	Complete BUSCOs (C)
+	777	Complete and single-copy BUSCOs (S)
+	90	Complete and duplicated BUSCOs (D)
+	228	Fragmented BUSCOs (F)
+	345	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_spades_45.fasta -o jatropha_spades_45.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_spades_45.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:61.3%[S:56.4%,D:4.9%],F:14.2%,M:24.5%,n:1440
+
+	882	Complete BUSCOs (C)
+	812	Complete and single-copy BUSCOs (S)
+	70	Complete and duplicated BUSCOs (D)
+	204	Fragmented BUSCOs (F)
+	354	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_star.fasta -o jatropha_star.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_star.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:70.2%[S:19.2%,D:51.0%],F:6.5%,M:23.3%,n:1440
+
+	1011	Complete BUSCOs (C)
+	276	Complete and single-copy BUSCOs (S)
+	735	Complete and duplicated BUSCOs (D)
+	93	Fragmented BUSCOs (F)
+	336	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_stringtie.fasta -o jatropha_stringtie.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_stringtie.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:73.8%[S:16.9%,D:56.9%],F:6.8%,M:19.4%,n:1440
+
+	1062	Complete BUSCOs (C)
+	243	Complete and single-copy BUSCOs (S)
+	819	Complete and duplicated BUSCOs (D)
+	98	Fragmented BUSCOs (F)
+	280	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_trinity.fasta -o jatropha_trinity.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_trinity.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:60.5%[S:38.8%,D:21.7%],F:14.9%,M:24.6%,n:1440
+
+	870	Complete BUSCOs (C)
+	558	Complete and single-copy BUSCOs (S)
+	312	Complete and duplicated BUSCOs (D)
+	214	Fragmented BUSCOs (F)
+	356	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_velveth_17.fasta -o jatropha_velveth_17.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_velveth_17.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:17.7%[S:11.4%,D:6.3%],F:21.6%,M:60.7%,n:1440
+
+	254	Complete BUSCOs (C)
+	164	Complete and single-copy BUSCOs (S)
+	90	Complete and duplicated BUSCOs (D)
+	311	Fragmented BUSCOs (F)
+	875	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_velveth_29.fasta -o jatropha_velveth_29.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_velveth_29.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:59.1%[S:40.3%,D:18.8%],F:14.0%,M:26.9%,n:1440
+
+	850	Complete BUSCOs (C)
+	580	Complete and single-copy BUSCOs (S)
+	270	Complete and duplicated BUSCOs (D)
+	201	Fragmented BUSCOs (F)
+	389	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_velveth_45.fasta -o jatropha_velveth_45.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/jatropha_velveth_45.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:52.9%[S:41.0%,D:11.9%],F:14.7%,M:32.4%,n:1440
+
+	762	Complete BUSCOs (C)
+	591	Complete and single-copy BUSCOs (S)
+	171	Complete and duplicated BUSCOs (D)
+	211	Fragmented BUSCOs (F)
+	467	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_all.fasta -o ricinus_all.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_all.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:80.8%[S:8.8%,D:72.0%],F:4.5%,M:14.7%,n:1440
+
+	1164	Complete BUSCOs (C)
+	127	Complete and single-copy BUSCOs (S)
+	1037	Complete and duplicated BUSCOs (D)
+	65	Fragmented BUSCOs (F)
+	211	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_soap_31.fasta -o ricinus_soap_31.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_soap_31.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:59.6%[S:54.3%,D:5.3%],F:13.7%,M:26.7%,n:1440
+
+	858	Complete BUSCOs (C)
+	782	Complete and single-copy BUSCOs (S)
+	76	Complete and duplicated BUSCOs (D)
+	197	Fragmented BUSCOs (F)
+	385	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_spades_17.fasta -o ricinus_spades_17.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_spades_17.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:24.6%[S:20.6%,D:4.0%],F:25.9%,M:49.5%,n:1440
+
+	354	Complete BUSCOs (C)
+	297	Complete and single-copy BUSCOs (S)
+	57	Complete and duplicated BUSCOs (D)
+	373	Fragmented BUSCOs (F)
+	713	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_spades_29.fasta -o ricinus_spades_29.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_spades_29.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:60.5%[S:54.0%,D:6.5%],F:14.0%,M:25.5%,n:1440
+
+	871	Complete BUSCOs (C)
+	777	Complete and single-copy BUSCOs (S)
+	94	Complete and duplicated BUSCOs (D)
+	202	Fragmented BUSCOs (F)
+	367	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_spades_45.fasta -o ricinus_spades_45.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_spades_45.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:62.8%[S:56.3%,D:6.5%],F:11.9%,M:25.3%,n:1440
+
+	904	Complete BUSCOs (C)
+	810	Complete and single-copy BUSCOs (S)
+	94	Complete and duplicated BUSCOs (D)
+	172	Fragmented BUSCOs (F)
+	364	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_star.fasta -o ricinus_star.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_star.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:64.7%[S:15.8%,D:48.9%],F:7.9%,M:27.4%,n:1440
+
+	932	Complete BUSCOs (C)
+	228	Complete and single-copy BUSCOs (S)
+	704	Complete and duplicated BUSCOs (D)
+	114	Fragmented BUSCOs (F)
+	394	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_stringtie.fasta -o ricinus_stringtie.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_stringtie.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:71.1%[S:17.8%,D:53.3%],F:6.0%,M:22.9%,n:1440
+
+	1023	Complete BUSCOs (C)
+	256	Complete and single-copy BUSCOs (S)
+	767	Complete and duplicated BUSCOs (D)
+	87	Fragmented BUSCOs (F)
+	330	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_trinity.fasta -o ricinus_trinity.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_trinity.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:65.4%[S:37.7%,D:27.7%],F:9.9%,M:24.7%,n:1440
+
+	942	Complete BUSCOs (C)
+	543	Complete and single-copy BUSCOs (S)
+	399	Complete and duplicated BUSCOs (D)
+	142	Fragmented BUSCOs (F)
+	356	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_velveth_17.fasta -o ricinus_velveth_17.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_velveth_17.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:20.1%[S:12.3%,D:7.8%],F:21.2%,M:58.7%,n:1440
+
+	289	Complete BUSCOs (C)
+	177	Complete and single-copy BUSCOs (S)
+	112	Complete and duplicated BUSCOs (D)
+	305	Fragmented BUSCOs (F)
+	846	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_velveth_29.fasta -o ricinus_velveth_29.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_velveth_29.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:62.4%[S:41.6%,D:20.8%],F:9.5%,M:28.1%,n:1440
+
+	898	Complete BUSCOs (C)
+	599	Complete and single-copy BUSCOs (S)
+	299	Complete and duplicated BUSCOs (D)
+	137	Fragmented BUSCOs (F)
+	405	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
+# BUSCO version is: 3.0.0 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/scripts/run_BUSCO.py -i /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_velveth_45.fasta -o ricinus_velveth_45.fasta -l /lbi/acgt/bioinfo/ANNOTATION/BUSCO_V3/datasets/embryophyta_odb9/ -m transcriptome -c 5
+#
+# Summarized benchmarking in BUSCO notation for file /st70/acgt/projetos/metabolomica_elibio/annotation/BUSCO/all_assemblies_BUSCO/ricinus_velveth_45.fasta
+# BUSCO was run in mode: transcriptome
+
+	C:55.4%[S:40.0%,D:15.4%],F:11.8%,M:32.8%,n:1440
+
+	798	Complete BUSCOs (C)
+	576	Complete and single-copy BUSCOs (S)
+	222	Complete and duplicated BUSCOs (D)
+	170	Fragmented BUSCOs (F)
+	472	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
